@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+*.asv
+*.autosave
+*.m~
+*.tmp
+*.bak
+slprj/
+codegen/
+tmp/
+
+# Personal working notes.
+/docs/
+
+# Required for local reproduction but not cleared for public redistribution.
+projects/**/course-resources/

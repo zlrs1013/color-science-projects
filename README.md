@@ -1,6 +1,6 @@
 # Fundamentals of Color Science Projects
 
-This repository is a curated presentation of seven projects completed for a course, Fundamentals of Color Science in Fall 2024. The projects progress from observing the color-reproduction problem to measuring color, implementing colorimetric calculations, and characterizing a camera and display for end-to-end color reproduction.
+This repository is a presentation of seven projects completed for a course, Fundamentals of Color Science, in Fall 2024. The projects progress from observing the color-reproduction problem to measuring color, implementing colorimetric calculations, and characterizing a camera and display for end-to-end color reproduction.
 
 ## Project sequence
 
